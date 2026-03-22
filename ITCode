@@ -1,0 +1,27 @@
+# 基础Web框架
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+
+# 数据处理
+pandas==2.1.4
+sqlalchemy==2.0.23
+pymysql==1.1.0
+dorisdb==1.2.7
+openpyxl==3.1.2
+chardet==5.2.0
+
+# 规则引擎/缓存
+pyruleengine==0.1.4
+redis==5.0.1
+
+# 权限/审计
+cryptography==41.0.7
+python-jose==3.3.0
+passlib==1.7.4
+
+# 可视化
+superset-api-client==0.4.1
+pyecharts==2.0.3
+
+# 测试
+pytest==7.4.3
